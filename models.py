@@ -3,11 +3,11 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 
 #########SETUP#########
-db_user = "geqhgdooimqsjo"
-db_password = "d7d1e02e9a60c7a8b3fb48ffcf944fb87e5876be35e9627073f780c3e7ac926c"
-db_name = "dagl5krkurfo4c"
-db_host = "ec2-52-31-233-101.eu-west-1.compute.amazonaws.com"
-db_port = "5432"
+db_user = "xxx"
+db_password = "xxx"
+db_name = "xxx"
+db_host = "xxx"
+db_port = "xxx"
 
 app = Flask(__name__)
 
